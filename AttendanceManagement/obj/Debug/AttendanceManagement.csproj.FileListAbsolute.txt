@@ -1,0 +1,9 @@
+D:\MyProjects\csharp\AttendanceManagement\AttendanceManagement\obj\Debug\AttendanceManagement.Properties.Resources.resources
+D:\MyProjects\csharp\AttendanceManagement\AttendanceManagement\obj\Debug\AttendanceManagement.csproj.GenerateResource.Cache
+D:\MyProjects\csharp\AttendanceManagement\AttendanceManagement\obj\Debug\AttendanceManagement.csproj.ResolveComReference.cache
+D:\MyProjects\csharp\AttendanceManagement\AttendanceManagement\obj\Debug\AttendanceManagement.FormMain.resources
+D:\MyProjects\csharp\AttendanceManagement\AttendanceManagement\obj\Debug\AttendanceManagement.Setting.resources
+D:\MyProjects\csharp\AttendanceManagement\AttendanceManagement\bin\Debug\考勤统计软件 V1.0.exe
+D:\MyProjects\csharp\AttendanceManagement\AttendanceManagement\bin\Debug\考勤统计软件 V1.0.pdb
+D:\MyProjects\csharp\AttendanceManagement\AttendanceManagement\obj\Debug\考勤统计软件 V1.0.exe
+D:\MyProjects\csharp\AttendanceManagement\AttendanceManagement\obj\Debug\考勤统计软件 V1.0.pdb
